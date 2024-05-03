@@ -12,10 +12,17 @@
 - relier avec whatsasap
 
 # Liste des taches
-### créer un dossier mini-projet-2-lea-prenom-nom
-### faire fait un depot distant
-### utilisation de vscode
-### creation de mon fichier readme
-### créér mes fichiers
+- créer un dossier mini-projet-2-lea-prenom-nom
+- faire fait un depot distant
+- utilisation de vscode
+- creation de mon fichier readme
+- Faire une maquette
+- # Mes fichiers
+- index.html ( c'est l'accueil de notre site, faire la description du site
+- model.html: habillement et broderie et mettre un commentaire;
+- Achat.html: vendre des habilles
+- Rechercher.html: par titre
+- contanct.html, localisation de l'atelier
+-Footer: mettre l'adresse de l'atelier, ajouter un logo
 
 
