@@ -10,6 +10,7 @@
 - Mettre une case pour vendre des habits mais pas d'achat par carte bancaire, relier avec whatsasap
 - On peut rechercher des habits par nom 
 - relier avec whatsasap
+- -Footer: mettre l'adresse de l'atelier, ajouter un logo
 
 # Liste des taches
 - créer un dossier mini-projet-2-lea-prenom-nom
@@ -20,9 +21,7 @@
 - # Mes fichiers
 - index.html ( c'est l'accueil de notre site, faire la description du site
 - model.html: habillement et broderie et mettre un commentaire;
-- Achat.html: vendre des habilles
-- Rechercher.html: par titre
 - contanct.html, localisation de l'atelier
--Footer: mettre l'adresse de l'atelier, ajouter un logo
+
 
 
