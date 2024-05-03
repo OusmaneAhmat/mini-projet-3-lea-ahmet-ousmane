@@ -22,6 +22,9 @@
 - index.html ( c'est l'accueil de notre site, faire la description du site
 - model.html: habillement et broderie et mettre un commentaire;
 - contanct.html, localisation de l'atelier
+- style.css
+- recupere.php
+- 
 
 
 
