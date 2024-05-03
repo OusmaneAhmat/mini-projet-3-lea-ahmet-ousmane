@@ -1,17 +1,21 @@
 # projet_creation-d-un-site-internet_de_couture
 ## L'objetcif du site: 
 - proposer aux clients plusieurs modèles d'habillement;
-- Proposer des proderies
-- mettre le prix de services
-- Le client peut ajouter au panier le model qu'il veut
-- Creation de panier
-- créér un compte utilisateur
-- Mettre un commentaire
-- Choisir sa taille 
-- mettre l'adresse
-- Mettre une case pour vendre des habits
+- Proposer des models de proderies
+- mettre le prix;
+- Le client peut ajouter au panier le model qu'il veut 
+- créér un compte utilisateur: si possible
+- Mettre une partie commentaire, qui permet aux utilisateur de commenter
+- mettre la localisation de l'atelier
+- Mettre une case pour vendre des habits mais pas d'achat par carte bancaire, relier avec whatsasap
 - On peut rechercher des habits par nom 
 - relier avec whatsasap
 
-# Les Etapes de creation de notre site web
+# Liste des taches
+### créer un dossier mini-projet-2-lea-prenom-nom
+### faire fait un depot distant
+### utilisation de vscode
+### creation de mon fichier readme
+### créér mes fichiers
+
 
